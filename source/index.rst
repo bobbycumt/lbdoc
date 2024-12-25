@@ -8,7 +8,7 @@
 刘博老师制作
 --------------------------------
 
-.. image:: ./a.jpg
+.. image:: ./a.png
    
 .. toctree::
    :maxdepth: 3
